@@ -7,7 +7,7 @@ Hi, I’m **Awsaf Ahmed**, a dedicated and enthusiastic software developer with 
 - Web Technologies: **HTML**, **ReactJS**, **Node.js**
 - Database Management: **MySQL**
 - Proficient in algorithms, data structures, and clean code practices
-- Skilled in UI/UX design using **Figma**
+- Skilled in UI/UX design 
 - Familiar with version control systems like **Git** and collaborative workflows
 
 I am always eager to take on new challenges, learn emerging technologies, and contribute to impactful projects.
