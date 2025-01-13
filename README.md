@@ -3,7 +3,7 @@
 Hi, I’m **Awsaf Ahmed**, a dedicated and enthusiastic software developer with a strong academic background in **Computer Science and Engineering** from **American International University-Bangladesh**. My expertise lies in designing and developing efficient, scalable, and innovative software solutions.
 
 ### Skills
-- Programming Languages: **C**, **C++**, **C#**, **Python**, **JavaScript**, **Java**
+- Programming Languages: **C**, **C++**, **C#**, **Python**, **JavaScript**, **Java**, **PHP**, 
 - Web Technologies: **HTML**, **ReactJS**, **Node.js**
 - Database Management: **MySQL**
 - Proficient in algorithms, data structures, and clean code practices
