@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Awsaf76/Awsaf76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Awsaf Ahmed**, a dedicated and enthusiastic software developer with a strong academic background in **Computer Science and Engineering** from **American International University-Bangladesh**. My expertise lies in designing and developing efficient, scalable, and innovative software solutions.
 
-Here are some ideas to get you started:
+### Skills
+- Programming Languages: **C**, **C++**, **C#**, **Python**, **JavaScript**, **Java**
+- Web Technologies: **HTML**, **ReactJS**, **Node.js**
+- Database Management: **MySQL**
+- Proficient in algorithms, data structures, and clean code practices
+- Skilled in UI/UX design using **Figma**
+- Familiar with version control systems like **Git** and collaborative workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always eager to take on new challenges, learn emerging technologies, and contribute to impactful projects.
+
+### Let's Connect
+- **LinkedIn**: [Awsaf Ahmed](https://www.linkedin.com/in/awsafahmed76/)
+- **Gmail**: [awsafahmed76.bd@gmail.com](mailto:awsafahmed76.bd@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration opportunities!
